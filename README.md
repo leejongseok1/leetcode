@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/leejongseok1/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3830-find-closest-person](https://github.com/leejongseok1/leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
 |  |
@@ -20,5 +21,6 @@
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/leejongseok1/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/leejongseok1/leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
