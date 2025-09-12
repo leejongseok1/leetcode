@@ -9,3 +9,5 @@ class Solution(object):
 
         for i in range(len(nums)):
             nums[i] = answer[i]
+    
+        return nums
