@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/leejongseok1/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/leejongseok1/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/leejongseok1/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/leejongseok1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/leejongseok1/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/leejongseok1/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/leejongseok1/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/leejongseok1/leetcode/tree/master/0392-is-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/leejongseok1/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
